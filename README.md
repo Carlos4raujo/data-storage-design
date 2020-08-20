@@ -1,4 +1,4 @@
-# Storage design
+# Storage mobile design
 
 Challenge by Frontend Mentor
 
